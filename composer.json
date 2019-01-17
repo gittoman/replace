@@ -2,5 +2,5 @@
   "name" : "gittoman/replace",
   "description" : "test",
   "license" : "proprietary",
-	"replace" : {"monolog/monolog" : "dev-master"}
+	"replace" : {"monolog/monolog" : "*"}
 }
