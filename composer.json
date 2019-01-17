@@ -1,6 +1,5 @@
 {
   "name" : "gittoman/replace",
   "description" : "test",
-  "license" : "proprietary",
-	"replace" : {"monolog/monolog" : "*"}
+  "license" : "proprietary"
 }
